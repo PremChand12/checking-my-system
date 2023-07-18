@@ -9,12 +9,12 @@
   float: right;
 }
 .unordered-list > span {
-  background-color: blue;
+  background-color: rgb(112, 112, 212);
   padding: 10px;
   margin: 10px;
-  width: 80px;
+  width: 40px;
   text-align: center;
   color: white;
-  border: 1px solid blue;
+  border: 1px solid rgb(62, 62, 197);
   border-radius: 10px;
 }
